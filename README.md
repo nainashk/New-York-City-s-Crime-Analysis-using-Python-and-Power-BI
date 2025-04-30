@@ -1,5 +1,13 @@
 # New-York-City-s-Crime-Analysis-using-Python-and-Power-BI
 files are in drive link
+Bibi_Nahida_Crime_Analysis.pbix – Power BI report file.
+https://drive.google.com/file/d/1zxhNB-jcN9XC_N2SdF935sRZTLHV2F5Y/view?usp=drive_link
+
+crime_analysis_nyc.py – Python script for data preprocessing and analysis.
+https://drive.google.com/file/d/1e_GKndvMxdqggDZU2TMknwEzu10qTBTr/view?usp=drive_link
+
+nyc_crime_2015_2019.csv – Cleaned dataset used in Power BI.
+
 
 ## 📊 Crime Against Women Analysis (2017–2019)
 This project focuses on analyzing crime incidents involving female victims in New York City from 2017 to 2019. The goal is to uncover patterns in crime types, locations, time of occurrence, and suspect demographics in order to better understand the risks women face in public and private spaces.
